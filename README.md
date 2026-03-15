@@ -1,4 +1,4 @@
-# The Holiday International Tour & Travels [ thitravels ]
+# The Holiday International Tour & Travels [ thitravels.com ]
 
 thitravels is a travel services platform designed to manage travel packages, tour bookings, and operational workflows.
 
