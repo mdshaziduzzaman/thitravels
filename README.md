@@ -9,4 +9,4 @@ thitravels is a travel services platform designed to manage travel packages, tou
 - Operational dashboards
 
 ## Status
-Product is in live now [ thitravels.com ]
+Live Demo: https://thitravels.com
